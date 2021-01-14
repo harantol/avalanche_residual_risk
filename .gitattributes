@@ -1,0 +1,8 @@
+Pente.png filter=lfs diff=lfs merge=lfs -text
+RR.png filter=lfs diff=lfs merge=lfs -text
+RR_petit_groupe_sage.png filter=lfs diff=lfs merge=lfs -text
+mosaic_20m.dem filter=lfs diff=lfs merge=lfs -text
+mosaic_20m.dem.hdr filter=lfs diff=lfs merge=lfs -text
+MNT_Argentiere_MdG_10m_ll.tif filter=lfs diff=lfs merge=lfs -text
+mnt_MDG_2m_Lat_Long.tif filter=lfs diff=lfs merge=lfs -text
+test_RR.tif filter=lfs diff=lfs merge=lfs -text
